@@ -17,7 +17,7 @@
  */
 #include "stlport_prefix.h"
 
-#include <ostream>
+#include <stlport/ostream>
 
 _STLP_BEGIN_NAMESPACE
 

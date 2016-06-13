@@ -18,9 +18,9 @@
 #ifndef MESSAGE_FACETS_H
 #define MESSAGE_FACETS_H
 
-#include <string>
-#include <locale>
-#include <hash_map>
+#include <stlport/string>
+#include <stlport/locale>
+#include <stlport/hash_map>
 
 #include "c_locale.h"
 

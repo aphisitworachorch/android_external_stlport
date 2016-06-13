@@ -17,7 +17,7 @@
  */
 #include "stlport_prefix.h"
 
-#include <typeinfo>
+#include <stlport/typeinfo>
 
 #include "message_facets.h"
 #include "acquire_release.h"

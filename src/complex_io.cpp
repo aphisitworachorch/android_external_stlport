@@ -18,8 +18,8 @@
 
 #include "stlport_prefix.h"
 
-#include <complex>
-#include <istream>
+#include <stlport/complex>
+#include <stlport/istream>
 
 _STLP_BEGIN_NAMESPACE
 

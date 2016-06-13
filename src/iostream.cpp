@@ -17,12 +17,12 @@
  */
 #include "stlport_prefix.h"
 
-#include <memory>
-#include <istream>
-#include <fstream>
+#include <stlport/memory>
+#include <stlport/istream>
+#include <stlport/fstream>
 #if defined (_STLP_MSVC) || defined (__MWERKS__) || defined (__ICL) || defined (__ISCPP__)
 #  define _STLP_USE_NOT_INIT_SEGMENT
-#  include <iostream>
+#  include <stlport/iostream>
 #endif
 
 #include "stdio_streambuf.h"

@@ -17,7 +17,7 @@
  */
 # include "stlport_prefix.h"
 
-#include <istream>
+#include <stlport/istream>
 
 _STLP_BEGIN_NAMESPACE
 

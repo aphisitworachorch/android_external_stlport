@@ -19,10 +19,10 @@
 #ifndef LOCALE_IMPL_H
 #define LOCALE_IMPL_H
 
-#include <clocale>             // C locale header file.
-#include <vector>
-#include <string>
-#include <locale>
+#include <stlport/clocale>             // C locale header file.
+#include <stlport/vector>
+#include <stlport/string>
+#include <stlport/locale>
 #include "c_locale.h"
 
 _STLP_BEGIN_NAMESPACE

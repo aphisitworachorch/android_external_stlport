@@ -18,8 +18,8 @@
 
 #include "stlport_prefix.h"
 
-#include <locale>
-#include <ostream>
+#include <stlport/locale>
+#include <stlport/ostream>
 
 _STLP_BEGIN_NAMESPACE
 

@@ -24,8 +24,8 @@
 #  include <sys/stat.h>
 #endif
 
-#include <fstream>
-#include <limits>
+#include <stlport/fstream>
+#include <stlport/limits>
 
 _STLP_BEGIN_NAMESPACE
 _STLP_MOVE_TO_PRIV_NAMESPACE

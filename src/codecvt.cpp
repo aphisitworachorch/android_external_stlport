@@ -17,8 +17,8 @@
  */
 #include "stlport_prefix.h"
 
-#include <locale>
-#include <algorithm>
+#include <stlport/locale>
+#include <stlport/algorithm>
 
 _STLP_BEGIN_NAMESPACE
 

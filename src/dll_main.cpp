@@ -37,19 +37,19 @@
 #  endif
 #endif
 
-#include <utility>
-#include <memory>
-#include <vector>
-#include <set>
-#include <list>
-#include <slist>
-#include <deque>
-#include <hash_map>
-#include <limits>
-#include <string>
-#include <stdexcept>
-#include <bitset>
-#include <locale>
+#include <stlport/utility>
+#include <stlport/memory>
+#include <stlport/vector>
+#include <stlport/set>
+#include <stlport/list>
+#include <stlport/slist>
+#include <stlport/deque>
+#include <stlport/hash_map>
+#include <stlport/limits>
+#include <stlport/string>
+#include <stlport/stdexcept>
+#include <stlport/bitset>
+#include <stlport/locale>
 
 #if defined (__DMC__)
 // for rope static members

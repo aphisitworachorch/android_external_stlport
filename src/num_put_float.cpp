@@ -18,9 +18,9 @@
 
 #include "stlport_prefix.h"
 
-#include <cmath>
-#include <ios>
-#include <locale>
+#include <stlport/cmath>
+#include <stlport/ios>
+#include <stlport/locale>
 
 #if defined (__DECCXX)
 #  define NDIG 400
@@ -82,7 +82,7 @@
 #  include <cfloat>
 #endif
 
-#include <algorithm>
+#include <stlport/algorithm>
 
 #if defined (__DMC__)
 #  define snprintf _snprintf

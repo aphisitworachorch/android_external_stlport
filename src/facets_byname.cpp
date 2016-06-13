@@ -17,14 +17,14 @@
  */
 #include "stlport_prefix.h"
 
-#include <hash_map>
-#include <vector>
+#include <stlport/hash_map>
+#include <stlport/vector>
 
-#include <locale>
-#include <istream>
+#include <stlport/locale>
+#include <stlport/istream>
 
-#include <algorithm>
-#include <functional>
+#include <stlport/algorithm>
+#include <stlport/functional>
 
 #include "c_locale.h"
 #include "locale_impl.h"

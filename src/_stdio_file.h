@@ -24,10 +24,10 @@
  * the C++ I/O library. */
 
 #ifndef _STLP_CSTDIO
-#  include <cstdio>
+#  include <stlport/cstdio>
 #endif
 #ifndef _STLP_CSTDDEF
-#  include <cstddef>
+#  include <stlport/cstddef>
 #endif
 
 #if defined (__MSL__)

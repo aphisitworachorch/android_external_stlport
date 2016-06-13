@@ -24,9 +24,9 @@
 
 #include "stlport_prefix.h"
 
-#include <strstream>
-#include <algorithm>
-#include <limits>
+#include <stlport/strstream>
+#include <stlport/algorithm>
+#include <stlport/limits>
 
 _STLP_BEGIN_NAMESPACE
 

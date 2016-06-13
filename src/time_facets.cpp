@@ -18,9 +18,9 @@
 
 #include "stlport_prefix.h"
 
-#include <cstdio>
-#include <locale>
-#include <istream>
+#include <stlport/cstdio>
+#include <stlport/locale>
+#include <stlport/istream>
 
 #include "c_locale.h"
 #include "acquire_release.h"

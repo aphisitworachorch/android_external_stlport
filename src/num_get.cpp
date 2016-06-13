@@ -17,9 +17,9 @@
  */
 #include "stlport_prefix.h"
 
-#include <locale>
-#include <istream>
-#include <algorithm>
+#include <stlport/locale>
+#include <stlport/istream>
+#include <stlport/algorithm>
 
 _STLP_BEGIN_NAMESPACE
 _STLP_MOVE_TO_PRIV_NAMESPACE

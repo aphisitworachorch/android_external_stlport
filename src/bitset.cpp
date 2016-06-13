@@ -18,7 +18,7 @@
 
 #include "stlport_prefix.h"
 
-#include <bitset>
+#include <stlport/bitset>
 
 _STLP_BEGIN_NAMESPACE
 

@@ -18,10 +18,10 @@
 
 #include "stlport_prefix.h"
 
-#include <algorithm>
-#include <ios>
-#include <locale>
-#include <ostream> // for __get_ostreambuf definition
+#include <stlport/algorithm>
+#include <stlport/ios>
+#include <stlport/locale>
+#include <stlport/ostream> // for __get_ostreambuf definition
 
 #include "aligned_buffer.h"
 

@@ -22,15 +22,15 @@
 
 #include "stlport_prefix.h"
 
-#include <memory>
+#include <stlport/memory>
 
 #if defined (__GNUC__) && (defined (__CYGWIN__) || defined (__MINGW32__))
 #  include <malloc.h>
 #endif
 
 #if defined (_STLP_PTHREADS) && !defined (_STLP_NO_THREADS)
-#  include <pthread_alloc>
-#  include <cerrno>
+#  include <stlport/pthread_alloc>
+#  include <stlport/cerrno>
 #endif
 
 #include <stl/_threads.h>

@@ -18,9 +18,9 @@
 
 #include "stlport_prefix.h"
 
-#include <limits>
-#include <locale>
-#include <istream>
+#include <stlport/limits>
+#include <stlport/locale>
+#include <stlport/istream>
 
 #if (defined (__GNUC__) && !defined (__sun) && !defined (__hpux)) || \
     defined (__DMC__)

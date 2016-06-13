@@ -18,8 +18,8 @@
 
 #include "stlport_prefix.h"
 
-#include <locale>
-#include <stdexcept>
+#include <stlport/locale>
+#include <stlport/stdexcept>
 
 #include "c_locale.h"
 #include "locale_impl.h"

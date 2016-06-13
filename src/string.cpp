@@ -1,6 +1,6 @@
 #include "stlport_prefix.h"
 
-#include <string>
+#include <stlport/string>
 
 _STLP_BEGIN_NAMESPACE
 

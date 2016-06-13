@@ -20,9 +20,9 @@
 
 // Trigonometric and hyperbolic functions for complex<float>,
 // complex<double>, and complex<long double>
-#include <complex>
-#include <cfloat>
-#include <cmath>
+#include <stlport/complex>
+#include <stlport/cfloat>
+#include <stlport/cmath>
 
 _STLP_BEGIN_NAMESPACE
 

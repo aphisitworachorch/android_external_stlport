@@ -17,9 +17,9 @@
  */
 #include "stlport_prefix.h"
 
-#include <locale>
-#include <algorithm>
-#include <typeinfo>
+#include <stlport/locale>
+#include <stlport/algorithm>
+#include <stlport/typeinfo>
 
 #include "c_locale.h"
 #include "aligned_buffer.h"

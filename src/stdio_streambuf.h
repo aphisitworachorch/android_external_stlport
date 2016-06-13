@@ -39,8 +39,8 @@
 #ifndef _STLP_STDIO_STREAMBUF
 #define _STLP_STDIO_STREAMBUF
 
-#include <streambuf>
-#include <cstdio>              // For FILE.
+#include <stlport/streambuf>
+#include <stlport/cstdio>              // For FILE.
 
 _STLP_BEGIN_NAMESPACE
 _STLP_MOVE_TO_PRIV_NAMESPACE

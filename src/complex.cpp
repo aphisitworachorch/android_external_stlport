@@ -18,9 +18,9 @@
 
 #include "stlport_prefix.h"
 
-#include <numeric>
-#include <cmath>
-#include <complex>
+#include <stlport/numeric>
+#include <stlport/cmath>
+#include <stlport/complex>
 
 #if defined (_STLP_MSVC_LIB) && (_STLP_MSVC_LIB >= 1400)
 // hypot is deprecated.

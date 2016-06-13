@@ -18,9 +18,9 @@
 
 #include "stlport_prefix.h"
 
-#include <algorithm>
-#include <locale>
-#include <functional>
+#include <stlport/algorithm>
+#include <stlport/locale>
+#include <stlport/functional>
 
 #include "c_locale.h"
 

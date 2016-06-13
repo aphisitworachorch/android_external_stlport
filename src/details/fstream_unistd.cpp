@@ -21,7 +21,7 @@
 // For sunpro, it chokes if time.h is included through stat.h
 #endif
 
-#include <fstream>
+#include <stlport/fstream>
 
 #ifdef __CYGWIN__
 #  define __int64 long long
